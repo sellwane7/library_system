@@ -8,13 +8,6 @@ Features:
 - List available / borrowed books
 - Save & Load to JSON
 - Export to CSV
-Includes:
-- User input/output
-- Conditionals, loops, functions
-- OOP (Book + Library classes)
-- Lists, tuples, dictionaries
-- Modules: json, csv, datetime
-- Error handling
 """
 
 import json
@@ -197,3 +190,4 @@ try:
     main()
 except KeyboardInterrupt:
     print("\nExiting program.")
+
